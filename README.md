@@ -10,4 +10,4 @@ I'm a passionate software developer with a focus on C++, DSA, and Web Developmen
 
 ## 💼 Projects
 - [Currency Converter](https://currency-converter-ecru-zeta.vercel.app/) - HTML, CSS, JS Project With API
-- [Pokedex](https://GitHub.com/sudhanshu-on/pokemon-finder) - A Virtual Pokedex
+- [Pokedex](https://pokedexio.vercel.app/) - A Virtual Pokedex

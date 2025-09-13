@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Bagde</h1>
 <h3 align="center">I'm Passionate Software Devloper with focus on C++, DSA and Web Development.</h3>
 
-- 🌱 I’m currently learning **Flask, SQL,mongoDB**
+- 🌱 I’m currently learning **JavaScript, Backend,mongoDB**
 
 - 💬 Ask me about **Git, Vercel, Canva**
 

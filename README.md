@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Bagde</h1>
 <h3 align="center">I'm Passionate Software Devloper with focus on C++, DSA and Web Development.</h3>
 
-- 🌱 I’m currently learning **Backend(Node.js) and Databases(mongoDB)**
+- 🌱 I’m currently focusing on **DSA**
 
-- 💬 Ask me about **Git, Vercel, Canva**
+- 💬 Ask me about **Canva**
 
 - 📫 How to reach me **sudhanshubagde1234@gmail.com**
-
-- ⚡ Fun fact **I think I am Super Human (bg Phonk music)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently focusing on **DSA** & **Competitive Programming**
 
-- 💬 Ask me about **Canva**
-
 - 📫 How to reach me **sudhanshubagde1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

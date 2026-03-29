@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Bagde</h1>
+<h1 align="center">Hi There 👋, I'm Sudhanshu Bagde</h1>
 <h3 align="center">I'm Passionate Backend Devloper with focus on C++, DSA and Web Development.</h3>
 
 - 🌱 I’m currently focusing on **DSA** & **Competitive Programming**

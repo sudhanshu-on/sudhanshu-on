@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Sudhanshu Bagde</h1>
-<h3 align="center">I'm Passionate Backend Devloper with focus on C++, DSA and Web Development.</h3>
+<h3 align="center">I'm Backend Devloper with focus on DSA and Building Systems that Scale.</h3>
 
-- 🌱 I’m currently focusing on **DSA** & **Competitive Programming**
+- 🌱 I’m currently focusing on **Competitive Programming** & **Building Systems**
 
 - 📫 How to reach me **sudhanshubagde1234@gmail.com**
 
